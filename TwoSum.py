@@ -45,4 +45,6 @@ class Solution:
             
             num_map[num] = i
 
-        return [-1, -1]
+        
+
+        
